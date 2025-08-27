@@ -122,12 +122,13 @@ Atualmente dedicando o tempo aos estudos e maior qualificação em desenvolvimen
 
 <img 
     align="left" 
-    alt="SQL" 
+    alt="SQLDeveloper" 
     title="SQLDeveloper"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />        
+
 <br>
 ---
 ### 📈 Estátisticas do GitHub 

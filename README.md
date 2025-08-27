@@ -129,6 +129,7 @@ Atualmente dedicando o tempo aos estudos e maior qualificação em desenvolvimen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
 />        
 <br>
+---
 ### 📈 Estátisticas do GitHub 
 
 <p>
@@ -139,15 +140,15 @@ Atualmente dedicando o tempo aos estudos e maior qualificação em desenvolvimen
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MateusThibes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusThibes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
             
           
           
+
+

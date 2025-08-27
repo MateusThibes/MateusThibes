@@ -11,7 +11,7 @@
 ---
 ### 🤖 Sobre mim
 
-Olá! Meu nome é "[Mateus Thibes](https://www.instagram.com/mateus_thibes)", tenho 24 anos e sou de **Itapetininga, São Paulo, Brasil**.  
+Olá! Meu nome é [Mateus Thibes](https://www.instagram.com/mateus_thibes), tenho 24 anos e sou de **Itapetininga, São Paulo, Brasil**.  
 **Graduado em Análise e Desenvolvimento de Sistemas pela FIAP-SP** em Agosto de 2025. <br> Me preparando para **Pós Graduação em Desenvolvimento Web no Instituto Federal de São Paulo**, (IFSP) no início de 2026. <br>
 Entusiasta da Tecnologia, desde pequeno criando conteúdo, sempre ligado a internet, computadores e vídeogames! <br>
 Atualmente dedicando o tempo aos estudos e maior qualificação em desenvolvimento de aplicações **full-stack**, com foco em tecnologias modernas de **back-end, front-end, python, AI e IoT**. Sempre criando novos projetos e ferramentas para colocar o conhecimento em prática. <br> 

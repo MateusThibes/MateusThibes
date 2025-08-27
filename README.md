@@ -130,6 +130,7 @@ Atualmente dedicando o tempo aos estudos e maior qualificação em desenvolvimen
 />        
 
 <br>
+
 ---
 ### 📈 Estátisticas do GitHub 
 
